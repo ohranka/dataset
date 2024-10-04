@@ -1,0 +1,3 @@
+﻿  dataset2.cpp
+C:\prog\dataset_anon\dataset2\dataset2.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dataset2.vcxproj -> C:\prog\dataset_anon\dataset2\x64\Debug\dataset2.exe
